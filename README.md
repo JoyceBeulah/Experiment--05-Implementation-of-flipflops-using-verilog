@@ -212,7 +212,8 @@ endmodule
 
 ## SR Flip-flop:
 
-![image](https://github.com/JoyceBeulah/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118343698/b0d595ef-46d4-43f6-87e4-c7668eef664c)
+![image](https://github.com/JoyceBeulah/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118343698/636ad411-7937-4535-9fcb-3bfa45d23a84)
+
 
 ## T Flip-flop:
 
@@ -224,6 +225,7 @@ endmodule
 
 
 ## JK Flip-flop:
+![image](https://github.com/JoyceBeulah/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118343698/e097afe6-e434-4f1b-a29e-33b0ac02a6d5)
 
 
 
